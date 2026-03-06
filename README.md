@@ -2,8 +2,8 @@
 
 # 📋 Overview
 
-Customer churn is a critical metric for subscription-based businesses — retaining existing customers is significantly more cost-effective than acquiring new ones. 
-This project delivers a data-driven analysis of customer subscription data to identify key churn drivers and uncover actionable opportunities to improve retention.
+Customer churn is a critical metric for subscription-based businesses, retaining existing customers is significantly more cost effective than acquiring new ones. 
+This project delivers a data driven analysis of customer subscription data to identify key churn drivers and uncover actionable opportunities to improve retention.
 
 Using Microsoft Excel, I developed an interactive dashboard that enables business stakeholders to dynamically explore churn patterns across different customer segments.
 The insights derived from this analysis can directly inform strategic decisions around customer retention, pricing models, and service improvements.
