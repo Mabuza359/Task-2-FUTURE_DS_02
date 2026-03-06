@@ -1,6 +1,6 @@
-📊 ##Customer Retention & Churn Analysis Dashboard
+📊 ## Customer Retention & Churn Analysis Dashboard
 
-📋 ##Overview##
+📋 ## Overview
 
 Customer churn is a critical metric for subscription-based businesses — retaining existing customers is significantly more cost-effective than acquiring new ones. 
 This project delivers a data-driven analysis of customer subscription data to identify key churn drivers and uncover actionable opportunities to improve retention.
